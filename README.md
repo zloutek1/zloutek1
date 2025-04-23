@@ -3,7 +3,7 @@
 <b>Hi, I am Tomáš Ljutenko a full-stack software engineer</b>
 <br><br>
 <pre>
-    💼 InQool a.s. • Back-end dev
+    💼 Oracle Netsuite • Back-end dev
     💻 Java • Python • React • Excel
     📖 Software architecture
     🎮 Music • Anime • Code • Games • Art
