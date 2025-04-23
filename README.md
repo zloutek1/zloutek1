@@ -8,5 +8,5 @@
     📖 Software architecture
     🎮 Music • Anime • Code • Games • Art
 </pre>
-<img src="https://github-readme-stats-bc67m2ns4-zloutek1s-projects.vercel.app/api?username=zloutek1&show_icons=true&icon_color=DDDDDD&text_color=DDDDDD&bg_color=0D1117&hide_title=true&hide_border=true&hide=contribs,issues" alt="zloutek1's Stats" />
+<img src="https://github-readme-stats-coral-gamma-11.vercel.app/api?username=zloutek1&show_icons=true&icon_color=DDDDDD&text_color=DDDDDD&bg_color=0D1117&hide_title=true&hide_border=true&hide=contribs,issues" alt="zloutek1's Stats" />
 </div>
